@@ -8,7 +8,7 @@ RF Mods Organization
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=154A62&center=true&vCenter=true&width=435&lines=DayZ%2BMods;Best+Practices;Servers+never+fall;Clients+never+crash;Cars+never+fly;Every+one+is+happy;Everyone+loot+money" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=154A62&center=true&vCenter=true&width=435&lines=DayZ%2BMods;Servers+never+fall;Clients+never+crash;Cars+never+fly;Every+one+is+happy;Everyone+loot+money" alt="Typing SVG" /></a>
 </p>
 
 <img align="left" src="https://wallpaperaccess.com/full/1494934.jpg" alt="" width="100%" />
