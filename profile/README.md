@@ -1,5 +1,5 @@
 <h1 align="center">
-RF mods organization
+RF Mods Organization
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=patison5&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="patison5" />
  <img src="https://img.shields.io/github/followers/patison5?label=followers&style=social&logoColor=black" align='right' alt="patison5" />
